@@ -2,9 +2,9 @@
   "videos": [
     {
       "id": 1,
-      "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
-      "descricao": "3 mil visualizações",
-      "url": "https://www.youtube.com/embed/y8FeZMv37WU",
+      "titulo": "CURSO de Análise e Desenvolvimento de Sistemas",
+      "descricao": "39 mil visualizações",
+      "url": "https://www.youtube.com/embed/6GjEEeyfq_0",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
     {
@@ -23,16 +23,16 @@
     },
     {
       "id": 4,
-      "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
-      "descricao": "2,5 mil visualizações",
-      "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
+      "titulo": "CURSO de Inteligência Artificial",
+      "descricao": "58 mil visualizações",
+      "url": "https://www.youtube.com/embed/huNvfkS5Dus",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
     {
       "id": 5,
-      "titulo": "Reencontrando a paixão por programar: Beatriz Ramerindo",
+      "titulo": "As 9 Softskills mais desejadas pelas empresas",
       "descricao": "1,2 mil visualizações",
-      "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
+      "url": "https://www.youtube.com/embed/imTUTl2sCW4",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
     {
@@ -44,9 +44,9 @@
     },
     {
       "id": 7,
-      "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
-      "descricao": "3,2 mil visualizações",
-      "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+      "titulo": "Guia de Carreira PYTHON",
+      "descricao": "11 mil visualizações",
+      "url": "https://www.youtube.com/embed/IQjd272BLnw",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     },
     {
@@ -83,6 +83,27 @@
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": "CURSO de Sistemas de Informação",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/997TdPpcajo",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 13
+    },
+    {
+      "titulo": "Conhecendo NestJS",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/YHpG6t91oW8",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 14
+    },
+    {
+      "titulo": "O que é Node.js?",
+      "descricao": "0 mil visualizações",
+      "url": "https://www.youtube.com/embed/8VSTrZY8vwI",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 15
     }
   ]
 }
